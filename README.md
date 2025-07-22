@@ -43,8 +43,8 @@ Check out the live site here:
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/KECT-Consultant_Site.git
-cd KECT-Consultant_Site
+git clone https://github.com/AKUSAbeysinghe/KECT_Consultant_Profile_Site.git
+cd KECT_Consultant_Profile_Site
 npm install
 npm run dev
 
