@@ -1,23 +1,18 @@
-# 🌐 KECT Consultant Company Website
+# KECT Consultant Company Website
 
-This is a professional, responsive, and animated website built for **KECT Consultant Company** as a **group client project**. It serves as a corporate profile site highlighting services, leadership, and client trust.
+Welcome to the **KECT Consultant Company** website — a modern, responsive site built with React, Vite, Tailwind CSS, Material UI, React Icons, and animations.
 
-## 🛠️ Tech Stack
+## Project Overview
 
-- ⚛️ **React** with **Vite**
-- 🎨 **Tailwind CSS** + **Material UI**
-- 💡 **React Icons**
-- ✨ **Framer Motion** (for animations)
-- 🌍 **Deployed on GitHub Pages**
+This project showcases the company's services, team, and client testimonials with a sleek design and smooth user experience. Built collaboratively as a group client project, it demonstrates clean React architecture and modern styling techniques.
 
----
+## Features
 
-## 👥 Group Project Overview
-
-This project was developed collaboratively as part of our academic client project assignment. Our group worked together on UI/UX design, frontend development, styling, routing, and deployment to deliver a clean and user-friendly experience to represent the KECT brand effectively.
-
----
-
+- Fully responsive design for all device sizes  
+- Smooth animations and transitions  
+- Clean, reusable React components  
+- Styling with Tailwind CSS and Material UI  
+- Iconography with React Icons  
 
 ## Screenshots
 
