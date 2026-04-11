@@ -1,16 +1,54 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌐 KECT Holdings Website (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive corporate website built with **React.js** for KECT Holdings.
+This project represents a multi-business company offering services in construction, consulting, recruitment, and import/export.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 https://kectholding.com/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# KECT-Consultants_Site_React-
->>>>>>> af2c77509db0381f13245e138217e052fe6ba334
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ React.js
+* 🎨 Tailwind 
+* 🌐 HTML5
+* 📦 npm 
+* 🔀 React Router 
+
+---
+
+## ✨ Features
+
+* Responsive design (mobile-friendly)
+* Multi-page navigation
+* Company profile & services section
+* Contact form / contact information
+* Clean and modern UI
+* Fast performance
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+│── components/     # Reusable UI components
+│── pages/          # Page-level components
+│── assets/         # Images, icons, etc.
+│── App.js
+│── index.js
+```
+
+
+
+## 📌 Notes
+
+* This project is a **frontend implementation** of the KECT Holdings website.
+* Content and branding belong to the respective company.
+* Some sections may be under development or placeholders.
+
+---
