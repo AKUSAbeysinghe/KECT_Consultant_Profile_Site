@@ -33,3 +33,7 @@ https://kectholding.com/
 
 <img width="1918" height="925" alt="KECT Consultants" src="https://github.com/user-attachments/assets/b3ce49db-a03f-4a85-b001-969827897d88" />
 
+
+<img width="1915" height="961" alt="KECT Consultants (1)" src="https://github.com/user-attachments/assets/149b7a24-e346-4094-afe2-5096a233a9f4" />
+
+
